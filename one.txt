@@ -1,2 +1,8 @@
+
 my working repository in git hub woring on naren
-naren going out
+<<<<<<< HEAD
+
+=======
+
+i'm working on it
+>>>>>>> 4th one
